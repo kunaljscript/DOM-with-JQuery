@@ -1,0 +1,59 @@
+body {background-color: darkgray;
+}
+
+form{
+    background-color: rgb(228, 215, 240);
+    margin: 50px;
+    border-radius: 20px;
+}
+
+label{
+    margin: 20px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(230, 228, 241);
+    padding: 50px;
+ }
+
+input, select{
+    position: absolute;
+    left: 200px;
+    margin: 20px;
+    border-radius: 10px;
+}
+button{
+    margin: 20px ;
+    background-color: chartreuse;
+    border-radius: 20px;
+    width: 200px;
+    border: solid 5px white;
+}
+
+#submit{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    background-color:blue;
+    border-radius: 20px;
+    width: 200px;
+    color: cornsilk;
+    border: solid 5px white;
+}
+
+table{
+    background-color: rgb(228, 215, 240);
+    margin: 50px;
+    border-radius: 20px;
+}
+
+td{
+    padding: 15px;
+    
+}
+th{ 
+    text-align: center;
+    color: rgb(154, 162, 236);
+    width: 400px;
+    
+}
